@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exercicio_3_reconhecer_multiplos",
+            "request": "launch",
+            "mainClass": "exercicio_3_reconhecer_multiplos",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
             "name": "exercicio_2_par_impar",
             "request": "launch",
             "mainClass": "exercicio_2_par_impar",
