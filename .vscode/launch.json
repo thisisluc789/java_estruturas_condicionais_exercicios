@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "exercicio_2_par_impar",
+            "request": "launch",
+            "mainClass": "exercicio_2_par_impar",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_1_numero_positivo_negativo",
+            "request": "launch",
+            "mainClass": "exercicio_1_numero_positivo_negativo",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
