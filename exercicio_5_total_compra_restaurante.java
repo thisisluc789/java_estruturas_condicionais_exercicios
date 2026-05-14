@@ -44,7 +44,7 @@ public class exercicio_5_total_compra_restaurante {
 	
 	else {
 		invalido = true;
-		System.out.println("Codigo Invalido. Digite o codigo de um produto existente de 1 até 5.");
+		System.out.println("Codigo Invalido. Digite o codigo de um produto existente de 1 ate 5.");
 	}
 	
 	if (invalido == false) {

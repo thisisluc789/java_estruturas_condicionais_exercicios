@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exercicio_5_total_compra_restaurante",
+            "request": "launch",
+            "mainClass": "exercicio_5_total_compra_restaurante",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
             "name": "exercicio_4_duracao_jogo",
             "request": "launch",
             "mainClass": "exercicio_4_duracao_jogo",

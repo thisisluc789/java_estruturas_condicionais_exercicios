@@ -16,5 +16,6 @@ public class exercicio_2_par_impar {
         {
             System.out.println("O numero eh impar.");
         }
+        sc.close();
     }
 }

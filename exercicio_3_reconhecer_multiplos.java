@@ -17,5 +17,6 @@ public class exercicio_3_reconhecer_multiplos {
         else {
             System.out.println("Nao, os numeros nao sao multiplos.");
         }
+        sc.close();
     }
 }

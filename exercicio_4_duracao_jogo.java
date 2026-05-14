@@ -16,5 +16,6 @@ public class exercicio_4_duracao_jogo {
         }
         
         System.out.println("O jogo durou " + duracao + " hora(s).");
+        sc.close();
     }
 }
