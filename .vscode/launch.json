@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exercicio_8_imposto_de_renda",
+            "request": "launch",
+            "mainClass": "exercicio_8_imposto_de_renda",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_7_coordenadas_quadrante",
+            "request": "launch",
+            "mainClass": "exercicio_7_coordenadas_quadrante",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_6_numero_intervalo",
+            "request": "launch",
+            "mainClass": "exercicio_6_numero_intervalo",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
             "name": "exercicio_5_total_compra_restaurante",
             "request": "launch",
             "mainClass": "exercicio_5_total_compra_restaurante",
