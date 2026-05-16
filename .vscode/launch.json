@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calculo_desconto_operador_ternario",
+            "request": "launch",
+            "mainClass": "others.calculo_desconto_operador_ternario",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_10_mostrar_dia_da_semana",
+            "request": "launch",
+            "mainClass": "exercicio_10_mostrar_dia_da_semana",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_9_total_minutos_pagamento",
+            "request": "launch",
+            "mainClass": "exercicio_9_total_minutos_pagamento",
+            "projectName": "java_estruturas_condicionais_exercicios_42ca87a1"
+        },
+        {
+            "type": "java",
             "name": "exercicio_8_imposto_de_renda",
             "request": "launch",
             "mainClass": "exercicio_8_imposto_de_renda",
